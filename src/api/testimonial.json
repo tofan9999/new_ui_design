@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Aarav Patel",
+    "location": "Bangalore",
+    "title": "Amazing Customer Support",
+    "quote": "I’ve never experienced customer service like this. Every question I had was answered within minutes, and the support team genuinely cared about solving my issue. Highly recommend!"
+  },
+  {
+    "name": "Sarah Williams",
+    "location": "London",
+    "title": "Incredible Value for Money",
+    "quote": "This is hands down the best investment I’ve made this year. The quality far exceeded my expectations, and the pricing was incredibly reasonable. A no-brainer!"
+  },
+  {
+    "name": "Ravi Mehta",
+    "location": "Delhi",
+    "title": "Seamless User Experience",
+    "quote": "Everything just works — from sign-up to using the features daily. The interface is clean, intuitive, and smooth. It made my workflow 3x faster."
+  },
+  {
+    "name": "Emily Chen",
+    "location": "Singapore",
+    "title": "Fast Delivery & Reliable Service",
+    "quote": "My order arrived even before the estimated delivery date! Everything was packed beautifully, and the quality was excellent. They’ve earned a loyal customer."
+  },
+  {
+    "name": "Jason Rivera",
+    "location": "New York",
+    "title": "Helped My Business Grow",
+    "quote": "Thanks to this product, we’ve seen a 40% increase in productivity and happier clients. It’s become a vital part of our daily operations."
+  }
+]
