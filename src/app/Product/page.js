@@ -3,6 +3,9 @@ import HeroSection from '@/components/productSection/heroSection'
 import Template from '../layout/Template'
 import AboutSection from '@/components/productSection/aboutSection'
 import ReatingSection from '@/components/productSection/reatingSection'
+import TeamSection from '@/components/productSection/teamSection'
+import MissionvissionSection from '@/components/productSection/missionvissionSection'
+
 function page() {
   return (
     <Template>
@@ -14,6 +17,16 @@ function page() {
         {/* ratting section */}
 
         <ReatingSection/>
+
+        {/* our teams section */}
+
+        <TeamSection/>
+
+        {/* mission vission section */}
+
+        <MissionvissionSection/>
+
+       
 
 
     </Template>

@@ -46,7 +46,7 @@ function aboutSection() {
         </div>
     </div>
 
-    <div className="h-[80vh] lg:w-[450vw] w-[98vw] bg-gray-300">
+    <div className="h-[80vh] lg:w-[98vw] w-[98vw] bg-gray-300">
         
         
      </div> 

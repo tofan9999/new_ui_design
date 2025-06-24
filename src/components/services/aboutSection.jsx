@@ -23,12 +23,12 @@ function aboutSection() {
               <h1 className="text-3xl">Or you Can</h1>
             </div>
             <div>
-              <table className="table-auto border mx-1 md:mx-4 text-left">
-                <thead>
+              <table className="table-auto border mx-1 md:mx-4  text-left">
+                <thead className="">
                   <tr className="border-b">
-                    <th className="p-2">Name</th>
-                    <th className="p-2">Contact</th>
-                    <th className="p-2">About</th>
+                    <th className="p-2  border-r mx-2">Name</th>
+                    <th className="p-2 border-r border-l mx-2">Contact</th>
+                    <th className="p-2 border-r border-l mx-2">About</th>
                   </tr>
                 </thead>
                 <tbody>
